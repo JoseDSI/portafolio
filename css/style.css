@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
+
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	color: #000000;
+	background-color: #d33530;
+}
+
+
+
+header{
+	background-color: #d33530;
+	color: #FFFFFF;
+}
+#navbar li:hover{
+	color: #26d4c5;
+}
+header img{
+	width: 200px;
+}
+
+
+
+#quien-soy{
+	background-image: url("../img/img_2439 medium.png");
+	background-position: top center;
+	background-size: cover;
+	color: #fff;
+}
+#quien-soy .overlay{
+	background-color: rgba(0,0,0,0.76);
+	padding: 300px;
+}
+#quien-soy h1{
+	text-align: center;
+	margin: 70px 0 40px;
+}
+#quien-soy p{
+	text-align: center;
+}
+
+
+#servicios{
+	background-color: #d33530;
+	padding: 70px;
+}
+#servicios .overlay{
+	background-color: rgba(0,0,0,0.76);
+	padding: 150px;
+}
+#servicios h1{
+	text-align: center;
+	margin: 70px 0 40px;
+	color: #FFFFFF;
+}
+#servicios li{
+	color: #FFFFFF;
+	margin: 10px 0 10px;
+}
+
+
+
+#portfolio .overlay{
+	background-color: rgba(0,0,0,0.76);
+	padding: 150px;
+}
+#portfolio{
+	background-color: #d33530;
+}
+#portfolio h1{
+	text-align: center;
+}
+#portfolio h1,h2{
+	margin: 20px 0;
+	color: #FFFFFF;
+}
+#portfolio img{
+	margin: 20px;
+	padding: 5px;
+	background-color: #FFFFFF;
+	border-radius: 5%;
+}
+.redes-sociales{
+	margin: 40px 0;
+}
+
+
+
+
+#contact{
+	background-color: #d33530;
+}
+#contact h1{
+	text-align: center;
+	margin: 40px 0;
+	color: #FFFFFF;
+}
+#contact h3{
+	color: #FFFFFF;
+	text-align: center;
+}
+#contact li a{
+	text-decoration: none;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #FFFFFF;
+	display: block;
+	text-align: center;
+	border-radius: 100%;
+	color: #58606B;
+	font-size: 16px;
+}
+#contact li a{
+	text-decoration: none;
+	margin: 10px 0;
+}
+#contact li a:hover{
+	background-color: #000000;
+	color: #FFFFFF;
+}
+#contact li a.fb:hover{
+	background-color: #3b5998;
+}
+#contact li a.ig:hover{
+	background-color: #DD2A7B;
+}
+#contact li a.ln:hover{
+	background-color: #0077B5;
+}
+
+
+
+footer{
+	background-color: #191919;
+	color: #58606b;
+	padding: 20px 0;
+	font-size: 14px;
+}
+footer li a{
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #171717;
+	display: block;
+	text-align: center;
+	border-radius: 100%;
+	color: #58606B;
+	font-size: 16px;
+}
+footer li a:hover{
+	background-color: #000000;
+	color: #FFFFFF;
+}
+footer li a.fb:hover{
+	background-color: #3b5998;
+}
+footer li a.ig:hover{
+	background-color: #DD2A7B;
+}
+footer li a.ln:hover{
+	background-color: #0077B5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
